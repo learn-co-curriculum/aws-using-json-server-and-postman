@@ -2,6 +2,7 @@
 
 ## Learning Goals
 
+- Describe JSON
 - Set up JSON Server as a mock backend
 - Use Postman to mimic frontend responses
 - Practice the client/server request/response cycle
@@ -28,7 +29,7 @@ a full backend server.
 Combined, we can practice sending requests from Postman to the JSON server and
 see how the server responds.
 
-## Review: What is JSON Again?
+## What is JSON?
 
 JSON, JavaScript Object Notation, is a _data interchange format_. We use JSON to
 send structured data between frontends and backends. There are a few formats
